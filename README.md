@@ -42,7 +42,7 @@ This advanced computer vision system performs comprehensive performance analytic
   - 16GB RAM minimum for high-resolution video analysis  
 
 ## Sample Output  
-![screenshot.jpeg](output_videos\screenshot.jpeg)
+![screenshot.jpeg](output_videos\screenshot.png)
 
 ![output_video.gif](output_videos\output_video.gif)
 
